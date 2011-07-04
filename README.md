@@ -13,7 +13,7 @@ effect from my twitch-gaming days.
 
 Implementation
 --------------
-UC is ritten in CoffeeScript using Node.JS and the Faye websocket library.
+UC is written in CoffeeScript using Node.JS and the Faye websocket library.
 
 
 Why?
