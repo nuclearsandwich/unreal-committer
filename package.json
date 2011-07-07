@@ -1,0 +1,10 @@
+{
+	"name": "unreal-committer",
+	"version": "0.0.1",
+	"dependencies": {
+		"coffee-script": "~1.1.1",
+		"faye": "~0.6.2",
+		"lightnode": "~0.1.0"
+	},
+	"authors": [ "Steven! Ragnarök" ]
+}
